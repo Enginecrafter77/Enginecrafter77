@@ -21,7 +21,6 @@ Most people know me under my internet name Enginecrafter77. I am a univeristy st
 🐧 Debian and Manjaro
 💼 Android application development
 🛠️ 3D printing and electronics engineering
-🚩 Democratic Socialism
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Enginecrafter77&show_icons=true&theme=tokyonight&custom_title=Enginecrafter77%27s%20Stats)
 
