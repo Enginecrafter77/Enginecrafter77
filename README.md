@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Most people know me under my internet name Enginecrafter77. I am a univeristy student who really likes programming and hates calculus.
+Most people know me under my internet name Enginecrafter77. I am a univeristy student who really likes programming and electronics engineering.
 
- * 📜 Java, Kotlin, C, C++, Python, Bash, Javascript, PHP
+ * 📜 Rust, Java, Kotlin, C/C++, Python, Bash, Javascript, PHP
  * 🐧 Debian and Manjaro
  * 💼 Full-stack web development, Android application development
  * 🛠️ 3D printing and electronics engineering
